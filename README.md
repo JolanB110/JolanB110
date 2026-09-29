@@ -50,13 +50,20 @@ My main interests are cybersecurity, network and infrastructure security, OSINT,
 * Pentesting
 
 ## Learning
+<h3>
+  <a href="https://atelier-rgpd.cnil.fr/" style="text-decoration: none;">
+    <span style="display: inline-block; vertical-align: middle;">
+      <img src="./assets/cnil-logo.png" width="30"/>
+    </span>
+    <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+      Atelier RGPD — CNIL
+    </span>
+  </a>
+</h3>
 
-<a href="https://atelier-rgpd.cnil.fr/">
-<img src="./assets/cnil-logo.png" width="25" align="center"/>
-</a>
+**Modules:** 1/6 completed · [Certificate](./certificates/CNIL-Atelier-RGPD-Module-1.pdf)
 
-**Atelier RGPD — CNIL**
-1/6 modules completed · [Certificate](./certificates/CNIL-Atelier-RGPD-Module-1.pdf)
+
 
 </td>
 </tr>
@@ -94,9 +101,25 @@ Cybersecurity awareness project focused on contextual password analysis and emai
 ---
 ## Education
 
-- **M1 Computer Science** · <a href="https://www.univ-lyon2.fr/">Université Lumière Lyon 2</a>
-- **Bachelor's Degree — Computer Science** · <a href="https://www.univ-lyon2.fr/">Université Lumière Lyon 2</a>
+- **M1 Computer Science** ·
+  <a href="https://www.univ-lyon2.fr/">
+    <span style="display: inline-block; vertical-align: middle;">
+      <img src="./assets/lyon2-logo.png" width="45"/>
+    </span>
+    <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+      Université Lumière Lyon 2
+    </span>
+  </a>
 
+- **Bachelor's Degree — Computer Science** ·
+  <a href="https://www.univ-lyon2.fr/">
+    <span style="display: inline-block; vertical-align: middle;">
+      <img src="./assets/lyon2-logo.png" width="45"/>
+    </span>
+    <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+      Université Lumière Lyon 2
+    </span>
+  </a>
 ---
 
 ## Contact
