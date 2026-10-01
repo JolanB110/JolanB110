@@ -24,11 +24,11 @@ My main interests are cybersecurity, network and infrastructure security, OSINT,
 
 **Data**
 
-<img src="https://skillicons.dev/icons?i=mysql,neo4j" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vscodium,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,latex" />
 
 **Operating Systems**
 
