@@ -50,6 +50,20 @@ My main interests are cybersecurity, network and infrastructure security, OSINT,
 * Pentesting
 
 ## Learning
+
+<h3>
+  <a href="https://www.netacad.com/" style="text-decoration: none;">
+    <span style="display: inline-block; vertical-align: middle;">
+      <img src="./assets/introduction-to-cybersecurity.png" width="30"/>
+    </span>
+    <span style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+      Introduction to Cybersecurity - Cisco Networking Academy
+    </span>
+  </a>
+</h3>
+
+**Completed** · [Certificate](./certificates/I2CSUpdate20261002-21-ullykp.pdf)
+
 <h3>
   <a href="https://atelier-rgpd.cnil.fr/" style="text-decoration: none;">
     <span style="display: inline-block; vertical-align: middle;">
@@ -62,8 +76,6 @@ My main interests are cybersecurity, network and infrastructure security, OSINT,
 </h3>
 
 **Modules:** 1/6 completed · [Certificate](./certificates/CNIL-Atelier-RGPD-Module-1.pdf)
-
-
 
 </td>
 </tr>
