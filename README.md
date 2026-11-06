@@ -75,7 +75,7 @@ My main interests are cybersecurity, network and infrastructure security, OSINT,
   </a>
 </h3>
 
-**Modules:** 2/6 completed · [Certificate](./certificates/CNIL-Atelier-RGPD.pdf)
+**Modules:** 3/6 completed · [Certificate](./certificates/CNIL-Atelier-RGPD.pdf)
 
 </td>
 </tr>
